@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2015/10/29/14/38/web-1012467__340.jpg)
+![MasterHead](https://cdn.pixabay.com/photo/2015/10/29/14/38/web-1012467__340.jpg)
 
 <h1 align="center">Hi 👋, I'm Esha Adhikary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
